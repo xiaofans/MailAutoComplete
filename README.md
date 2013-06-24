@@ -1,7 +1,7 @@
 MailAutoComplete
 ================
 
-This is  a demo for make it easy for user to input their email address
+This is  a demo that make it easy for user to input their email address
 
 I add some chinese mails,you can change this mails in the CustomerFilter class.
 
